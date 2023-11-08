@@ -38,7 +38,7 @@ To use this program, you will need:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/pdf-splitter.git
+   git clone https://github.com/SpookyTherapist/pdf-splitter.git
    ```
 
 2. Install the required Python packages:
