@@ -100,5 +100,3 @@ If you'd like to contribute to this project, please follow these steps:
 This program is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Customize this README file with the specific details of your program, including the file names, descriptions, and any additional instructions that users or contributors may need.
